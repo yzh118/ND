@@ -122,3 +122,4 @@ function replaceAlias(line, region, index) {
 1118
 ```
 襄阳IPv6云，2h2g独立公网IPv6，每年仅需9.9。
+大量低价、大带宽云服，都可以使用此优惠码！
